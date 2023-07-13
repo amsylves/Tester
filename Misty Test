@@ -1,0 +1,6 @@
+{
+    "misty_settings": {
+        "keyphrase": "HeyMisty",
+        "vad_engine": "WebRTC"
+    }
+}
